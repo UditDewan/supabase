@@ -217,7 +217,6 @@ export function PITRForm({
                     </p>
                   </div>
                   <div className="mt-4! space-y-1">
-                    <h3 className="text-sm text-foreground-light"></h3>
                     {isSelectedOnEarliestDay && (
                       <p className="text-sm text-foreground-light">
                         <strong>Earliest backup available for this date</strong>:{' '}

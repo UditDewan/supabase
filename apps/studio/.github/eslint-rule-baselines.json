@@ -18,7 +18,7 @@
     "jsx-a11y/no-aria-hidden-on-focusable": 0,
     "jsx-a11y/tabindex-no-positive": 0,
     "jsx-a11y/anchor-is-valid": 7,
-    "jsx-a11y/heading-has-content": 3,
+    "jsx-a11y/heading-has-content": 2,
     "jsx-a11y/no-distracting-elements": 0
   },
   "ruleFiles": {
@@ -1114,7 +1114,6 @@
       "components/layouts/Navigation/LayoutHeader/BreadcrumbsView.tsx": 1
     },
     "jsx-a11y/heading-has-content": {
-      "components/interfaces/Database/Backups/PITR/PITRForm.tsx": 1,
       "components/layouts/Scaffold.tsx": 2
     },
     "jsx-a11y/no-distracting-elements": {}
